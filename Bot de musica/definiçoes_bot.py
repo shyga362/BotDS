@@ -10,4 +10,4 @@ for 1 in range(len(cogs)):
     cogs[1].setup()
 
 
-client.Run('OTQyNDQyNzI5NDI4ODg5NjYw.YgkkMA.PugPDSpkCtl-5xob2d8GrzwV_Do')
+client.Run('OTA0Nzg2MDE2ODQ4NzE1ODE2.YYAlpA.D7gIb8AuD2MEpY79htvMIS4Ws90')
